@@ -1,0 +1,4 @@
+interface:
+  display_name: "스크린샷 반전 PPTX"
+  short_description: "스크린샷을 흑백 반전해 PPTX 뒤에 한 장씩 추가"
+  default_prompt: "Use $screenshot-to-dark-pptx to convert these screenshots to grayscale and inverted colors, then append one image per black blank slide to the supplied PPTX."

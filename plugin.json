@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "chem-pptx",
+  "version": "0.1.0",
+  "description": "Convert screenshots to grayscale, invert their colors, and append them to an existing PowerPoint deck.",
+  "author": {
+    "name": "soojinlee5b-ai",
+    "url": "https://github.com/soojinlee5b-ai"
+  },
+  "homepage": "https://github.com/soojinlee5b-ai/chem-pptx",
+  "repository": "https://github.com/soojinlee5b-ai/chem-pptx",
+  "license": "MIT",
+  "keywords": ["powerpoint", "screenshots", "codex", "skill"]
+}

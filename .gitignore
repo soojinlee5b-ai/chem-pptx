@@ -1,0 +1,5 @@
+.DS_Store
+outputs/
+.codex-finalizer/
+.qa-*/
+*.pptx
